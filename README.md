@@ -37,6 +37,6 @@ Github: https://github.com/khaihung215
 ### Git Stats 🏆
 
 <div align=center>
-  <img align=left width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=khaihung215&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-  <img align=right width=450 src="https://github-readme-stats.vercel.app/api?username=khaihung215&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img align=left width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=khaihung215&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+  <img align=right width=400 src="https://github-readme-stats.vercel.app/api?username=khaihung215&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div>
