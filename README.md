@@ -16,7 +16,6 @@ I'm a student at HCMC University of Foreign Languages - Information Technology
 - Frameworks: &nbsp;
 ![DotNet](https://img.shields.io/badge/.NET-9A1BFA?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-E63228?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 
 - Databases:  &nbsp;
 ![SQL](https://img.shields.io/badge/-SQL%20Server-FF786C?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
